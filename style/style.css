@@ -1,0 +1,27 @@
+.search-bar {
+    text-align:center;
+    margin:25px;
+}
+
+.search-bar input {
+    width: 70%;
+}
+
+.list-group-item {
+    border: black solid 2px;
+    transition: 0.5s;
+}
+
+.list-group-item:hover {
+    background-color: #dddddd;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.video-detail {
+}
+
+.video-detail .details {
+    padding:15px 5px;
+    border:gainsboro solid 1px;
+}
