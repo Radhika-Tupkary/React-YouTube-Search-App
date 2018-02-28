@@ -12,3 +12,4 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
+The app is not yet available on Heroku, apologies for the inconvenience.
